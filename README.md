@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋,  I'm Manikanta sairam Gajavalli</h1>
+<h1 align="center">Hi 👋 I'm Manikanta sairam Gajavalli</h1>
  About me
-
+Focused and enthusiastic developer with a keen interest in software development and artificial intelligence. By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being. I am a passionate individual who thrives to build and apply algorithms to solve real-world industry problems.
 - 🌱 I’m currently learning **node.js and Express.js**
-
-- 💬 Ask me about **Python, JavaScript, Web Development, and Machine Learning basics**
-
-- 📫 How to reach me **ram.gajavalli9@gmail.com**
 
 ---
 
