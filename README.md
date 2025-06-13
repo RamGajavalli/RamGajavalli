@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **node.js and Express.js**
 
-- 👨‍💻 All of my projects are available at [https://ramgajavalli.github.io/portfolio/](https://ramgajavalli.github.io/portfolio/)
-
 - 💬 Ask me about **Python, JavaScript, Web Development, and Machine Learning basics**
 
 - 📫 How to reach me **ram.gajavalli9@gmail.com**
